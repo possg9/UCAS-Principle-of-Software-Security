@@ -31,6 +31,10 @@
 	  t2.join();
   }
   ```
+## 编译环境
+   Win7x64\
+   Visual Studio 2017
+
 
 ## 主要参考了以下两个Github的代码
   [ajayrandhawa/Blackcat-Keylogger](https://github.com/ajayrandhawa/Blackcat-Keylogger)\
